@@ -1,7 +1,5 @@
 h3 {
-    text-align: center;
-    color: darkslateblue;
-    font-style: italic;
+    color: rgb(255, 255, 255);
 }
 
 .skill-header {
@@ -9,8 +7,8 @@ h3 {
 }
 
 .skill-container{
-    border: solid lightcoral;
-        width:400px;
+    border: solid rgb(180,180,180);
+        width:56rem;
         margin-left:auto;
         margin-right: auto;
         padding:20px;
